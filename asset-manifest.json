@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.f8fd3397.chunk.css",
-    "main.js": "/static/js/main.fcbec333.chunk.js",
-    "main.js.map": "/static/js/main.fcbec333.chunk.js.map",
+    "main.js": "/static/js/main.c4557662.chunk.js",
+    "main.js.map": "/static/js/main.c4557662.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cbbb42e2.js",
     "runtime-main.js.map": "/static/js/runtime-main.cbbb42e2.js.map",
     "static/css/2.b71ebc9b.chunk.css": "/static/css/2.b71ebc9b.chunk.css",
-    "static/js/2.c53f1d69.chunk.js": "/static/js/2.c53f1d69.chunk.js",
-    "static/js/2.c53f1d69.chunk.js.map": "/static/js/2.c53f1d69.chunk.js.map",
+    "static/js/2.7caf8d11.chunk.js": "/static/js/2.7caf8d11.chunk.js",
+    "static/js/2.7caf8d11.chunk.js.map": "/static/js/2.7caf8d11.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e12e3ca78794fb867b7824a5652fa424.js": "/precache-manifest.e12e3ca78794fb867b7824a5652fa424.js",
+    "precache-manifest.d050a02e2d89bd4743917d8e2c801ad3.js": "/precache-manifest.d050a02e2d89bd4743917d8e2c801ad3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b71ebc9b.chunk.css.map": "/static/css/2.b71ebc9b.chunk.css.map",
     "static/css/main.f8fd3397.chunk.css.map": "/static/css/main.f8fd3397.chunk.css.map",
-    "static/js/2.c53f1d69.chunk.js.LICENSE.txt": "/static/js/2.c53f1d69.chunk.js.LICENSE.txt",
+    "static/js/2.7caf8d11.chunk.js.LICENSE.txt": "/static/js/2.7caf8d11.chunk.js.LICENSE.txt",
+    "static/media/7UEJ.gif": "/static/media/7UEJ.efbd1e5b.gif",
     "static/media/AboutUsPage.jpeg": "/static/media/AboutUsPage.3722f7e7.jpeg",
     "static/media/AgencyLandingPage.jpeg": "/static/media/AgencyLandingPage.df4fcdeb.jpeg",
     "static/media/BlogIndexPage.jpeg": "/static/media/BlogIndexPage.7e8818a2.jpeg",
@@ -31,7 +32,6 @@
     "static/media/ServiceLandingPage.jpeg": "/static/media/ServiceLandingPage.41a344b7.jpeg",
     "static/media/SignupPage.jpeg": "/static/media/SignupPage.1cecad52.jpeg",
     "static/media/TermsOfServicePage.jpeg": "/static/media/TermsOfServicePage.15d07b59.jpeg",
-    "static/media/WHITESMLogo-ORM-Primary.png": "/static/media/WHITESMLogo-ORM-Primary.1017060d.png",
     "static/media/app-mockup.png": "/static/media/app-mockup.92f0fc59.png",
     "static/media/arrow-left-2-icon.319a321f.svg": "/static/media/arrow-left-2-icon.319a321f.svg",
     "static/media/arrow-left-3-icon.41406a77.svg": "/static/media/arrow-left-3-icon.41406a77.svg",
@@ -70,6 +70,7 @@
     "static/media/map-pin.svg": "/static/media/map-pin.b2f804bd.svg",
     "static/media/menu.svg": "/static/media/menu.ca394ec8.svg",
     "static/media/minus.svg": "/static/media/minus.9661ba0b.svg",
+    "static/media/oztech-logo.png": "/static/media/oztech-logo.47cbe020.png",
     "static/media/play-circle.svg": "/static/media/play-circle.36f0e6ee.svg",
     "static/media/plus.svg": "/static/media/plus.7c6c8212.svg",
     "static/media/prototype-illustration.svg": "/static/media/prototype-illustration.fe9ecccb.svg",
@@ -107,8 +108,8 @@
   "entrypoints": [
     "static/js/runtime-main.cbbb42e2.js",
     "static/css/2.b71ebc9b.chunk.css",
-    "static/js/2.c53f1d69.chunk.js",
+    "static/js/2.7caf8d11.chunk.js",
     "static/css/main.f8fd3397.chunk.css",
-    "static/js/main.fcbec333.chunk.js"
+    "static/js/main.c4557662.chunk.js"
   ]
 }
